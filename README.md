@@ -4,7 +4,3 @@
 - 🔭 I’m currently working on **learning Git, terminal basics and learning useful skills.**
 
 - 📫 How to reach me **toseankessler@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
